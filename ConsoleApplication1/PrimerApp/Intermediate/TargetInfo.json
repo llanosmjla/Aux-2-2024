@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PrimerApp",
+			"Path": "C:\\Users\\LlanosJL70\\OneDrive\\Documentos\\AUXILIATURA 2024\\ING. MOLINA\\Aux_2_2024\\ConsoleApplication1\\PrimerApp\\Source\\PrimerApp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PrimerAppEditor",
+			"Path": "C:\\Users\\LlanosJL70\\OneDrive\\Documentos\\AUXILIATURA 2024\\ING. MOLINA\\Aux_2_2024\\ConsoleApplication1\\PrimerApp\\Source\\PrimerAppEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

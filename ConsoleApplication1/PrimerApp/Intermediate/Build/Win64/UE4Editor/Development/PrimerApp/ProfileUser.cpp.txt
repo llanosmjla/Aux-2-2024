@@ -1,0 +1,9 @@
+C:\Users\LlanosJL70\OneDrive\Documentos\AUXILIATURA 2024\ING. MOLINA\Aux_2_2024\ConsoleApplication1\PrimerApp\Intermediate\Build\Win64\UE4Editor\Development\PrimerApp\Definitions.PrimerApp.h
+C:\Users\LlanosJL70\OneDrive\Documentos\AUXILIATURA 2024\ING. MOLINA\Aux_2_2024\ConsoleApplication1\PrimerApp\Source\PrimerApp\ProfileUser.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+C:\Users\LlanosJL70\OneDrive\Documentos\AUXILIATURA 2024\ING. MOLINA\Aux_2_2024\ConsoleApplication1\PrimerApp\Intermediate\Build\Win64\UE4Editor\Inc\PrimerApp\ProfileUser.generated.h

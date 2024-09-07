@@ -1,0 +1,11 @@
+C:\Users\LlanosJL70\OneDrive\Documentos\AUXILIATURA 2024\ING. MOLINA\Aux_2_2024\ConsoleApplication1\PrimerApp\Intermediate\Build\Win64\UE4Editor\Development\PrimerApp\Definitions.PrimerApp.h
+C:\Users\LlanosJL70\OneDrive\Documentos\AUXILIATURA 2024\ING. MOLINA\Aux_2_2024\ConsoleApplication1\PrimerApp\Source\PrimerApp\PrimerAppProjectile.h
+C:\Users\LlanosJL70\OneDrive\Documentos\AUXILIATURA 2024\ING. MOLINA\Aux_2_2024\ConsoleApplication1\PrimerApp\Intermediate\Build\Win64\UE4Editor\Inc\PrimerApp\PrimerAppProjectile.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h

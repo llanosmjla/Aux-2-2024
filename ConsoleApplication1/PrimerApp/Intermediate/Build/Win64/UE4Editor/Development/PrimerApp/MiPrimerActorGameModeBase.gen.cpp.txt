@@ -1,0 +1,11 @@
+C:\Users\LlanosJL70\OneDrive\Documentos\AUXILIATURA 2024\ING. MOLINA\Aux_2_2024\ConsoleApplication1\PrimerApp\Intermediate\Build\Win64\UE4Editor\Development\PrimerApp\Definitions.PrimerApp.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\LlanosJL70\OneDrive\Documentos\AUXILIATURA 2024\ING. MOLINA\Aux_2_2024\ConsoleApplication1\PrimerApp\Source\PrimerApp/MiPrimerActorGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\LlanosJL70\OneDrive\Documentos\AUXILIATURA 2024\ING. MOLINA\Aux_2_2024\ConsoleApplication1\PrimerApp\Source\PrimerApp\MiPrimerActor.h
+C:\Users\LlanosJL70\OneDrive\Documentos\AUXILIATURA 2024\ING. MOLINA\Aux_2_2024\ConsoleApplication1\PrimerApp\Intermediate\Build\Win64\UE4Editor\Inc\PrimerApp\MiPrimerActor.generated.h
+C:\Users\LlanosJL70\OneDrive\Documentos\AUXILIATURA 2024\ING. MOLINA\Aux_2_2024\ConsoleApplication1\PrimerApp\Intermediate\Build\Win64\UE4Editor\Inc\PrimerApp\MiPrimerActorGameModeBase.generated.h

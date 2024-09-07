@@ -1,0 +1,3 @@
+C:\Users\LlanosJL70\OneDrive\Documentos\AUXILIATURA 2024\ING. MOLINA\Aux_2_2024\ConsoleApplication1\PrimerApp\Intermediate\Build\Win64\UE4Editor\Development\PrimerApp\Definitions.PrimerApp.h
+C:\Users\LlanosJL70\OneDrive\Documentos\AUXILIATURA 2024\ING. MOLINA\Aux_2_2024\ConsoleApplication1\PrimerApp\Source\PrimerApp\MiPrimerActor.h
+C:\Users\LlanosJL70\OneDrive\Documentos\AUXILIATURA 2024\ING. MOLINA\Aux_2_2024\ConsoleApplication1\PrimerApp\Intermediate\Build\Win64\UE4Editor\Inc\PrimerApp\MiPrimerActor.generated.h
